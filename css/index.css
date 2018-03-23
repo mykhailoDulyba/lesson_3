@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+.marked, p, div >p {
+    font-family: 'Indie Flower', cursive;
+    color:rgba(18,100,0,0.7);
+}
